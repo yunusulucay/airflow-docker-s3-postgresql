@@ -10,3 +10,5 @@ After you download the repo. Put the files to a folder named end_to_end_project 
 After 2-3 minutes go to ```localhost:8080``` and login. Username = admin, password = admin .
 
 Make DAGs unpause. Trigger get_api_send_psql DAG.
+
+Article : https://medium.com/p/af29a08213a1/edit
