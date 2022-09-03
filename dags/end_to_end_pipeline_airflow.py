@@ -98,8 +98,8 @@ def _send_csv_s3():
 
     s3_client.upload_file(
         "/tmp/csv/covid_19.csv",
-        "my-apache-airflow-bucket",
-        "covid_19.csv")
+        configurations["bucket_name"],
+        configurations["file_name"])
 
     os.remove("/tmp/csv/covid_19.csv")
 

@@ -1,4 +1,6 @@
 {"aws_secret_access_key": "XXX",
 "aws_access_key_id":"XXX",
 "service_name":"s3",
-"region_name":"us-east-2"}
+"region_name":"us-east-2",
+"bucket_name":"my-apache-airflow-bucket",
+"file_name":"covid_19.csv"}
