@@ -1,0 +1,4 @@
+{"aws_secret_access_key": "XXX",
+"aws_access_key_id":"XXX",
+"service_name":"s3",
+"region_name":"us-east-2"}
