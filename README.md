@@ -11,4 +11,4 @@ After 2-3 minutes go to ```localhost:8080``` and login. Username = admin, passwo
 
 Make DAGs unpause. Trigger get_api_send_psql DAG.
 
-Article : https://medium.com/p/af29a08213a1/edit
+Article : https://medium.com/@yunuseulucay/apache-airflow-on-docker-with-aws-s3-and-postgresql-af29a08213a1
